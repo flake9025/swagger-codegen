@@ -826,6 +826,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [Mporium](http://mporium.com/)
 - [Neverfail](https://neverfail.com/)
 - [NTT DATA](http://www.nttdata.com/)
+- [NEXESS](http://www.nexess-solutions.com/)
 - [nViso](http://www.nviso.ch/)
 - [Okiok](https://www.okiok.com)
 - [Onedata](http://onedata.org)
